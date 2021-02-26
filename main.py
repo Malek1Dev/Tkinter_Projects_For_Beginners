@@ -27,7 +27,5 @@ def main():
 
 if __name__ == '__main__':
     main()
-    spam = ['cat', 'bat', 'rat', 'elephant']
-    print(spam[0:2])
 
 # Created by Malek1Dev
