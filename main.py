@@ -2,6 +2,7 @@ def main():
     var_str = "This Repository will be All About Tkinter , Some a Little projects For Beginners !"
     print(var_str)
 
+    # This is just for fun ! ☻
     def collatz(n):
         if n % 2 == 0:
             r = n // 2
