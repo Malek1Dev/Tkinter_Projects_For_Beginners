@@ -23,7 +23,7 @@ def main():
                    "Quebec", "Romeo", "Sierra", "Tango", "Uniform", "Victor", "Whiskey", "X-ray",
                    "Yankee", "Zulu", "Zulu", "Zulu"
                    ]
-        # Covert the list into to prevent duplicates
+        # Convert the list into to prevent duplicates
         entries_set = set(entries)
 
         unique_entries = list(entries_set)
