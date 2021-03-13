@@ -1,1 +1,2 @@
-# This is just a test
+# Python Beginner App using Tkinter 
+a simple program for beginners 
